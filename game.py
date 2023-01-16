@@ -1,7 +1,7 @@
 # Крестики-нолики на Python (ver. 0.1)
 # --------------------------------
 # Автор: Захаров Андрей (https://github.com/ZakharovAndrew)
-# Ютуб-канал: https://www.youtube.com/@user-sy8gi9gn6v
+# Ютуб-канал: https://www.youtube.com/@zakharov_andrey
 
 # размер в клетках для игрового поля
 board_size = 3
